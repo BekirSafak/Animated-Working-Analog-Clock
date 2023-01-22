@@ -94,7 +94,7 @@ body {
   inset: 35px;
   background: linear-gradient(var(--blue), var(--pink));
   border-radius: 50%;
-  animation: animate 2s linear infinite;
+  animation: animate 55s linear infinite;
 }
 
 @keyframes animate {
